@@ -1,4 +1,4 @@
-#The Role of Lexical Alignment in Human Understanding of Explanations by Conversational Agents
+# The Role of Lexical Alignment in Human Understanding of Explanations by Conversational Agents
 
 The data corresponding to the above study can be found at: The dataset corresponding to the study can be found at https://doi.org/10.5281/zenodo.7600868
 
