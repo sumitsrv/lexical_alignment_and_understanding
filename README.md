@@ -1,6 +1,6 @@
 # The Role of Lexical Alignment in Human Understanding of Explanations by Conversational Agents
 
-Note: The following information has restricted access at the current stage as the publication is still under review.
+Note: The following information has restricted access at the current stage as the source publication is still under review.
 
 The data corresponding to the above study can be found at: The dataset corresponding to the study can be found at https://doi.org/10.5281/zenodo.7600868
 
